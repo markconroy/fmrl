@@ -1,0 +1,30 @@
+[
+    {
+  		"fmrlid": 1,
+  		"fmrlstatus": "This is a FMRL status - no. 1"
+  	},
+  	{
+  		"fmrlid": 2,
+  		"fmrlstatus": "This is a FMRL status - no. 2"
+  	},
+  	{
+  		"fmrlid": 3,
+  		"fmrlstatus": "This is a FMRL status - no. 3"
+  	},
+  	{
+  		"fmrlid": 4,
+  		"fmrlstatus": "This is a FMRL status - no. 4"
+  	},
+  	{
+  		"fmrlid": 5,
+  		"fmrlstatus": "This is a FMRL status - no. 5"
+  	},
+  	{
+  		"fmrlid": 6,
+  		"fmrlstatus": "This is a FMRL status - no. 6"
+  	},
+  	{
+  		"fmrlid": 7,
+  		"fmrlstatus": "This is a FMRL status - no. 7"
+  	}
+  ]
