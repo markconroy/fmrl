@@ -2,7 +2,7 @@
 FMRL (pronounced ephemeral is an attempt to build a social network that does not use a database).
 
 ## Aim
-To build a (basic) social networking that does not use a database. 
+To build a (basic) social networking website that does not use a database. 
 
 # Objectives
 - Create a form that posts a status to a file and adds an entry to it
